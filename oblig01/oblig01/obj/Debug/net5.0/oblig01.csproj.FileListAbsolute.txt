@@ -1,0 +1,16 @@
+C:\Users\jonas\source\repos\oblig01\oblig01\bin\Debug\net5.0\oblig01.exe
+C:\Users\jonas\source\repos\oblig01\oblig01\bin\Debug\net5.0\oblig01.deps.json
+C:\Users\jonas\source\repos\oblig01\oblig01\bin\Debug\net5.0\oblig01.runtimeconfig.json
+C:\Users\jonas\source\repos\oblig01\oblig01\bin\Debug\net5.0\oblig01.runtimeconfig.dev.json
+C:\Users\jonas\source\repos\oblig01\oblig01\bin\Debug\net5.0\oblig01.dll
+C:\Users\jonas\source\repos\oblig01\oblig01\bin\Debug\net5.0\ref\oblig01.dll
+C:\Users\jonas\source\repos\oblig01\oblig01\bin\Debug\net5.0\oblig01.pdb
+C:\Users\jonas\source\repos\oblig01\oblig01\obj\Debug\net5.0\oblig01.csprojAssemblyReference.cache
+C:\Users\jonas\source\repos\oblig01\oblig01\obj\Debug\net5.0\oblig01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\source\repos\oblig01\oblig01\obj\Debug\net5.0\oblig01.AssemblyInfoInputs.cache
+C:\Users\jonas\source\repos\oblig01\oblig01\obj\Debug\net5.0\oblig01.AssemblyInfo.cs
+C:\Users\jonas\source\repos\oblig01\oblig01\obj\Debug\net5.0\oblig01.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\oblig01\oblig01\obj\Debug\net5.0\oblig01.dll
+C:\Users\jonas\source\repos\oblig01\oblig01\obj\Debug\net5.0\ref\oblig01.dll
+C:\Users\jonas\source\repos\oblig01\oblig01\obj\Debug\net5.0\oblig01.pdb
+C:\Users\jonas\source\repos\oblig01\oblig01\obj\Debug\net5.0\oblig01.genruntimeconfig.cache
